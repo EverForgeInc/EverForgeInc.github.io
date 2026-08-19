@@ -1,14 +1,19 @@
-# David J. Najera — NFC Professional Contact Card
+# David J. Najera — NFC Contact Page
 
-Updated employer-facing GitHub Pages package.
+Contact-focused GitHub Pages package.
 
-## Live address
-https://everforgeinc.github.io/
+## Primary actions
+- Save My Contact
+- View Résumé
+- LinkedIn
+- Email Me
+- Call Me
+- QR / Contact
 
-## Included
+GitHub and project links are intentionally omitted for now.
+
+## Upload/replace in repository root
 - index.html
 - David_Najera_Resume.pdf
 - david-najera.vcf
 - qr-everforgeinc-pages.png
-
-Upload/replace these files in the root of EverForgeInc/EverForgeInc.github.io on the main branch.
